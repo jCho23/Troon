@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8B2D60E0-2737-46CA-9AB4-71D6E35D41D8}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Troon/Tests.cs">
+    <Files>
+      <File FileName="Troon/AppInitializer.cs" Line="34" Column="23" />
+      <File FileName="Troon/Tests.cs" Line="38" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Troon" expanded="True">
+            <Node name="Troon" expanded="True">
+              <Node name="Troon" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Troon PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
