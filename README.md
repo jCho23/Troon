@@ -1,14 +1,14 @@
 # Troon
 Automation Test Scripts for Troon
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
